@@ -1,5 +1,5 @@
 {
-  "name": "react-qr-reader",
+  "name": "omidgfx-react-qr-reader",
   "version": "2.2.1",
   "description": "A react component for reading QR codes from the webcam.",
   "main": "./lib/index.js",
